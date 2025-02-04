@@ -17,3 +17,6 @@ Yet, Statcast++ isn’t just about stats—it’s about revolutionizing the way 
 More importantly, we’re democratizing performance tracking. No longer is elite analytics reserved for MLB teams with expensive radars and sensors. With just a smartphone camera, players at any level can unlock MLB-grade insights, fine-tune their game, and relive their biggest moments like the pros.
 
 This is baseball analytics redefined—one pitch, one swing, one unforgettable moment at a time.
+
+Demo: loom.com/share/c5a90fd42fe5472bad0cafbbc8c5710f
+
